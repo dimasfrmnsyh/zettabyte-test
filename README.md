@@ -1,2 +1,2 @@
 # zettabyte-test
-npm i 
+npm i duluu
